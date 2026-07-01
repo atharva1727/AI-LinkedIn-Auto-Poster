@@ -8,7 +8,7 @@ Automated LinkedIn content publishing system using Python and JavaScript with pr
 
 ### AI + Automation System for Multi-Account LinkedIn Content Publishing
 
-<img src="https://github.com/atharva1727/AI-LinkedIn-Auto-Poster/blob/main/poster" alt="LinkedIn Auto Poster Banner" width="100%"/>
+<img src="https://github.com/atharva1727/AI-LinkedIn-Auto-Poster/blob/main/Gemini_Generated_Image_80jjgw80jjgw80jj%20(1).png" alt="LinkedIn Auto Poster Banner" width="100%"/>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
