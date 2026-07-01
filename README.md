@@ -46,7 +46,7 @@ Built to solve a simple but real problem: **manually posting to LinkedIn — esp
 
 <p align="center">
   <img src="https://github.com/atharva1727/AI-LinkedIn-Auto-Poster/blob/main/automation-run.png" width="48%" alt="Automation Running"/>
-  <img src="assets/screenshots/post-success.png" width="48%" alt="Post Published Successfully"/>
+  <img src="https://github.com/atharva1727/AI-LinkedIn-Auto-Poster/blob/main/post-success.png" width="48%" alt="Post Published Successfully"/>
 </p>
 
 <p align="center"><i>Automation in action (instance logs + browser session) · Post published successfully</i></p>
